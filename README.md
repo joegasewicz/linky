@@ -1,5 +1,5 @@
 # Linky
-Fully complete Linked list library. This a Go port of C library [lists](https://github.com/joegasewicz/lists).
+Fully complete Linked list library. This a Go port of a C library - [lists](https://github.com/joegasewicz/lists).
 ### API
 
 #### ListInit
